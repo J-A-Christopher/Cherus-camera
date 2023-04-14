@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1017274180696-6f73f2mdfumkk7sn20epare1sporvlud.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1017274180696-6f73f2mdfumkk7sn20epare1sporvlud</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBx_Zt2JcHfIlgq10M-SGvv0I0WJQNY2AQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1017274180696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cherusCameraApp</string>
+	<key>PROJECT_ID</key>
+	<string>images-73a0d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>images-73a0d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1017274180696:ios:06eea7f9a7d9225128962d</string>
+</dict>
+</plist>

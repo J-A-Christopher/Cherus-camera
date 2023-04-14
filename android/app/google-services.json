@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017274180696",
+    "project_id": "images-73a0d",
+    "storage_bucket": "images-73a0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017274180696:android:90d812962e2d2c1728962d",
+        "android_client_info": {
+          "package_name": "com.example.cherus_camera_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017274180696-bbbs8qgfsv3hm09ceeqj25l7dgfercgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEINzVEi_Xn9Vg5nqhFQEn9HxOI4Ynwyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017274180696-bbbs8qgfsv3hm09ceeqj25l7dgfercgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
